@@ -34,10 +34,8 @@ Here are some snapshots of the gameplay experience:
 
 ![Game Start Menu](screenshots/start_menu.png)  
 ![Game Instructions Page](screenshots/instructions.png)  
-![Gameplay Screenshot 1](screenshots/gameplay1.png)  
+![Gameplay](screenshots/gameplay1.png)  
 ![Boss Fight](screenshots/bossfight.png)
-
-> ℹ️ Make sure the screenshots are placed inside the `screenshots/` folder at the root of the project.
 
 ---
 
