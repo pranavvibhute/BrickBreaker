@@ -1,0 +1,56 @@
+
+
+Version:	3.50
+CmdLine:	D:\Coding\Java\BrickBreaker2\BrickBreakerGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Coding\Java\BrickBreaker2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = D:\Coding\JDK\jdk-23.0.2
+Substitute:	PATH = C:\Python313\Scripts\;C:\Python313\;D:\Coding\JDK\jdk-23.0.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Python34;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft VS Code\bin;C:\Users\Pranav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\Scripts;C:\Users\Pranav\AppData\Local\Android\sdk\platform-tools;D:\Coding\Flutter\flutter\bin;D:\Coding\scrcpy-win64-v3.1;D:\Coding\Flutter\AndroidSDK\cmdline-tools\12.0\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Pranav\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2023.3.3\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.3\bin;;C:\Users\Pranav\AppData\Local\Muse Hub\lib;D:\Coding\Flutter\flutter\bin;C:\Users\Pranav\AppData\Roaming\npm;C:\Program Files (x86)\MySQL\mysql-connector-j-9.2.0\mysql-connector-j-9.2.0.jar;;D:\Coding\JDK\jdk-23.0.2\bin
+JRE paths:	D:\Coding\JDK\jdk-23.0.2;C:\Python313\Scripts\;C:\Python313\;D:\Coding\JDK\jdk-23.0.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Python34;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft VS Code\bin;C:\Users\Pranav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\Scripts;C:\Users\Pranav\AppData\Local\Android\sdk\platform-tools;D:\Coding\Flutter\flutter\bin;D:\Coding\scrcpy-win64-v3.1;D:\Coding\Flutter\AndroidSDK\cmdline-tools\12.0\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Pranav\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2023.3.3\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.3\bin;;C:\Users\Pranav\AppData\Local\Muse Hub\lib;D:\Coding\Flutter\flutter\bin;C:\Users\Pranav\AppData\Roaming\npm;C:\Program Files (x86)\MySQL\mysql-connector-j-9.2.0\mysql-connector-j-9.2.0.jar;;D:\Coding\JDK\jdk-23.0.2\bin
+Check launcher:	D:\Coding\JDK\jdk-23.0.2\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	D:\Coding\JDK\jdk-23.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Coding\Java\BrickBreaker2\BrickBreakerGame.exe"
+Args length:	56/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Coding\Java\BrickBreaker2\BrickBreakerGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Coding\Java\BrickBreaker2\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.023.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\Coding\Java\BrickBreaker2\jre\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	D:\Coding\Java\BrickBreaker2\jre\bin\javaw.exe
+Launcher args:	-jar "D:\Coding\Java\BrickBreaker2\BrickBreakerGame.jar "
+Args length:	57/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Coding\Java\BrickBreaker2\BrickBreakerGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Coding\Java\BrickBreaker2\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.023.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\Coding\Java\BrickBreaker2\jre\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	D:\Coding\Java\BrickBreaker2\jre\bin\javaw.exe
+Launcher args:	-jar "D:\Coding\Java\BrickBreaker2\BrickBreakerGame.jar"
+Args length:	56/32768 chars
+Exit code:	0
